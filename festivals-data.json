@@ -1,9 +1,9 @@
 [
   {
     "id": "F02-01",
+    "nl": "Carnaval Maastricht / Vastelaovend",
     "zh": "馬斯垂克嘉年華",
     "en": "Maastricht Carnival",
-    "nl": "Carnaval Maastricht / Vastelaovend",
     "city": "Maastricht",
     "province": "Limburg",
     "months": "2–3月",
@@ -14,19 +14,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "依復活節推算，嘉年華核心活動通常為週日至週二",
     "url": "https://www.visitmaastricht.com/en/agenda/4126461966/carnival-1#item-details__description",
-    "noteEn": "Carnival dates follow the Easter calendar. Main celebrations generally run from Sunday through Tuesday.",
+    "note": "依復活節推算，嘉年華核心活動通常為週日至週二",
+    "noteEn": "Carnival follows the Easter calendar. Main celebrations generally run from Sunday through Tuesday.",
     "highlight": "週日 Boonte Störrem 遊行",
     "highlightEn": "Boonte Störrem Sunday parade",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F02-03",
+    "nl": "Lampegat Carnaval",
     "zh": "恩荷芬嘉年華",
     "en": "Eindhoven Carnival",
-    "nl": "Lampegat Carnaval",
     "city": "Eindhoven",
     "province": "Noord-Brabant",
     "months": "2–3月",
@@ -37,19 +37,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "2月6日13:11舉行 Lampegatse Optocht 遊行",
     "url": "https://lampegat.com/info/lampegatse-optocht/",
+    "note": "2月6日13:11舉行 Lampegatse Optocht 遊行",
     "noteEn": "The Lampegatse Optocht parade takes place on February 6 at 1:11 PM.",
     "highlight": "2027-02-06 13:11 Lampegatse Optocht 遊行",
     "highlightEn": "Lampegatse Optocht parade, February 6, 2027 at 1:11 PM",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F02-04",
+    "nl": "Kruikenstad Carnaval",
     "zh": "蒂爾堡嘉年華",
     "en": "Tilburg Carnival",
-    "nl": "Kruikenstad Carnaval",
     "city": "Tilburg",
     "province": "Noord-Brabant",
     "months": "2–3月",
@@ -60,19 +60,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "2月7日12:11舉行 Den Opstoet 遊行",
     "url": "https://www.kruikenstad.nl/agenda/den-opstoet",
+    "note": "2月7日12:11舉行 Den Opstoet 遊行",
     "noteEn": "The Den Opstoet parade takes place on February 7 at 12:11 PM.",
     "highlight": "2027-02-07 12:11 Den Opstoet 遊行",
     "highlightEn": "Den Opstoet parade, February 7, 2027 at 12:11 PM",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F03-01",
+    "nl": "Alkmaarse Kaasmarkt",
     "zh": "阿爾克馬爾起司市集",
     "en": "Alkmaar Cheese Market",
-    "nl": "Alkmaarse Kaasmarkt",
     "city": "Alkmaar",
     "province": "Noord-Holland",
     "months": "3–9月",
@@ -83,12 +83,11 @@
       "傳統與民俗",
       "美食"
     ],
-    "note": "每週五10:00–13:00，7–8月另有週二晚間場",
     "url": "https://www.kaasmarkt.nl/bezoek-de-kaasmarkt/wanneer-vinden-de-kaasmarkten-plaats",
-    "noteEn": "Fridays, 10:00 AM–1:00 PM. Additional Tuesday evening markets are held in July and August.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
+    "note": "每週五10:00–13:00，7–8月另有週二晚間場",
+    "noteEn": "Fridays, 10 AM–1 PM, with additional Tuesday evening markets in July and August.",
+    "highlight": "週五 10:00–13:00；7–8月週二 19:00–21:00",
+    "highlightEn": "Fridays 10 AM–1 PM; Tuesdays in July–August 7–9 PM",
     "weeklyRules": [
       {
         "weekday": "FRI",
@@ -101,13 +100,14 @@
           8
         ]
       }
-    ]
+    ],
+    "seasonMonths": []
   },
   {
     "id": "F04-01",
+    "nl": "Goudse Kaasmarkt",
     "zh": "豪達起司市集",
     "en": "Gouda Cheese Market",
-    "nl": "Goudse Kaasmarkt",
     "city": "Gouda",
     "province": "Zuid-Holland",
     "months": "4–8月",
@@ -118,24 +118,24 @@
       "傳統與民俗",
       "美食"
     ],
-    "note": "每週四10:00–12:30，節假日可能例外",
     "url": "https://goudsekaasmarkt.com/en/agenda",
-    "noteEn": "Thursdays, 10:00 AM–12:30 PM, with possible public-holiday exceptions.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
+    "note": "每週四10:00–12:30，節假日可能例外",
+    "noteEn": "Thursdays, 10 AM–12:30 PM, with possible public-holiday exceptions.",
+    "highlight": "週四 10:00–12:30（假日可能例外）",
+    "highlightEn": "Thursdays 10 AM–12:30 PM (holiday exceptions may apply)",
     "weeklyRules": [
       {
         "weekday": "THU",
         "months": null
       }
-    ]
+    ],
+    "seasonMonths": []
   },
   {
     "id": "F04-02",
-    "zh": "國王節",
-    "en": "King’s Day",
     "nl": "Koningsdag",
+    "zh": "國王節",
+    "en": "King's Day",
     "city": "全國",
     "province": "全國",
     "months": "4月",
@@ -145,19 +145,19 @@
     "cats": [
       "傳統與民俗"
     ],
-    "note": "每年4月27日，遇星期日提前至4月26日；2027王室主場Lelystad",
     "url": "https://www.koninklijkhuis.nl/onderwerpen/activiteiten-en-werkzaamheden/koningsdag",
-    "noteEn": "Held on April 27 each year, or April 26 if the 27th falls on a Sunday. Lelystad hosts the royal celebrations in 2027.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "note": "每年4月27日，遇星期日提前至4月26日；2027王室主場Lelystad",
+    "noteEn": "Held on April 27, or April 26 when the 27th is a Sunday. Lelystad hosts the royal celebration in 2027.",
+    "highlight": "2027 王室主要慶祝城市：Lelystad",
+    "highlightEn": "2027 royal celebration host city: Lelystad",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F07-01",
+    "nl": "Pride Amsterdam",
     "zh": "阿姆斯特丹驕傲節",
     "en": "Amsterdam Pride",
-    "nl": "Pride Amsterdam",
     "city": "Amsterdam",
     "province": "Noord-Holland",
     "months": "7–8月",
@@ -168,20 +168,20 @@
       "文化與藝術",
       "地方特色慶典"
     ],
-    "note": "2027年8月7日為 Canal Parade 運河遊行",
     "url": "https://pride.amsterdam/en/",
+    "note": "2027年8月7日為 Canal Parade 運河遊行",
     "noteEn": "The Canal Parade takes place on August 7, 2027.",
     "highlight": "2027-08-07 Canal Parade 運河遊行",
     "highlightEn": "Canal Parade, August 7, 2027",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F09-01",
-    "zh": "空降部隊紀念健行",
-    "en": "Airborne March",
-    "nl": "Airborne Wandeltocht",
-    "city": "Oosterbeek / Arnhem",
+    "nl": "Airborne Wandeltocht / Airborne Herdenkingen",
+    "zh": "空降部隊紀念活動與健行",
+    "en": "Airborne Commemorations and March",
+    "city": "Oosterbeek / Arnhem周邊",
     "province": "Gelderland",
     "months": "9月",
     "start": "2027-09-04",
@@ -191,19 +191,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "每年9月第一個星期六",
     "url": "https://airbornewandeltocht.nl/",
+    "note": "每年9月第一個星期六",
     "noteEn": "Held on the first Saturday in September each year.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "highlight": "2027-09-04 Airborne Wandeltocht 健行",
+    "highlightEn": "Airborne March, September 4, 2027",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F09-02",
+    "nl": "Open Monumentendag",
     "zh": "全國古蹟開放日",
     "en": "Heritage Open Days",
-    "nl": "Open Monumentendag",
     "city": "全國",
     "province": "全國",
     "months": "9月",
@@ -213,19 +213,19 @@
     "cats": [
       "文化與藝術"
     ],
-    "note": "每年9月第二個週末",
     "url": "https://www.openmonumentendag.nl/over-ons/",
+    "note": "每年9月第二個週末",
     "noteEn": "Held on the second weekend of September each year.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "highlight": "2027 主題：Hidden Heritage",
+    "highlightEn": "2027 theme: Hidden Heritage",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F10-01",
+    "nl": "Leidens Ontzet",
     "zh": "萊頓解放紀念節",
     "en": "Leiden Relief Festival",
-    "nl": "Leidens Ontzet",
     "city": "Leiden",
     "province": "Zuid-Holland",
     "months": "10月",
@@ -236,19 +236,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "每年10月3日；2027詳細節目待公布",
     "url": "https://3october.nl/",
+    "note": "每年10月3日；2027詳細節目待公布",
     "noteEn": "Held annually on October 3. The detailed 2027 program has not yet been announced.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "highlight": "2027 詳細活動待公布",
+    "highlightEn": "Detailed 2027 program pending",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F10-02",
+    "nl": "Amsterdam Dance Event",
     "zh": "阿姆斯特丹電子音樂節",
     "en": "Amsterdam Dance Event",
-    "nl": "Amsterdam Dance Event",
     "city": "Amsterdam",
     "province": "Noord-Holland",
     "months": "10月",
@@ -258,19 +258,19 @@
     "cats": [
       "文化與藝術"
     ],
-    "note": "2027年10月20日至24日",
     "url": "https://www.amsterdam-dance-event.nl/en/news/amsterdam-dance-event-concludes-monumental-30-year-anniversary-and-sets-dates-for-ade-2027/2967954/",
+    "note": "2027年10月20日至24日",
     "noteEn": "Scheduled for October 20–24, 2027.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "highlight": "2027-10-20 至 2027-10-24",
+    "highlightEn": "October 20–24, 2027",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F11-01",
-    "zh": "法肯堡聖誕城",
-    "en": "Valkenburg Christmas Town",
     "nl": "Kerststad Valkenburg",
+    "zh": "法肯堡聖誕市集",
+    "en": "Valkenburg Christmas Market",
     "city": "Valkenburg",
     "province": "Limburg",
     "months": "11月–翌年1月",
@@ -281,19 +281,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "此為2026聖誕季資料，洞穴市集至12月30日；2027年底日期待公布",
     "url": "https://www.christmastownvalkenburg.com/events/detail/kerststad-valkenburg/60635/",
-    "noteEn": "Dates refer to the 2026 Christmas season. Cave Christmas markets run through December 30. Late-2027 dates have not yet been announced.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "note": "此為2026聖誕季資料，洞穴市集至12月30日；2027年底日期待公布",
+    "noteEn": "These dates refer to the 2026 Christmas season. Cave markets run through December 30; late-2027 dates are pending.",
+    "highlight": "洞穴市集至 2026-12-30",
+    "highlightEn": "Cave Christmas markets through December 30, 2026",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F11-02",
+    "nl": "Sinterklaasintocht",
     "zh": "聖尼古拉斯迎接遊行",
     "en": "Sinterklaas Arrival",
-    "nl": "Sinterklaasintocht",
     "city": "全國",
     "province": "全國",
     "months": "11月",
@@ -303,19 +303,19 @@
     "cats": [
       "傳統與民俗"
     ],
-    "note": "2026全國迎接11月14日，Amsterdam和Utrecht為11月15日；各地日期不同",
     "url": "https://www.sintinamsterdam.nl/over-de-intocht/",
-    "noteEn": "The national 2026 arrival is November 14; Amsterdam and Utrecht host local arrivals on November 15. Dates vary by city.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "note": "2026全國迎接11月14日，Amsterdam和Utrecht為11月15日；各地日期不同",
+    "noteEn": "The national 2026 arrival is November 14; Amsterdam and Utrecht host local arrivals November 15. Dates vary by city.",
+    "highlight": "2026-11-14 Grave 全國迎接；11-15 Amsterdam／Utrecht",
+    "highlightEn": "2026 national arrival in Grave on Nov 14; Amsterdam and Utrecht on Nov 15",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F11-03",
+    "nl": "Sint Maarten Utrecht",
     "zh": "烏特勒支聖馬丁節",
     "en": "Saint Martin Utrecht",
-    "nl": "Sint Maarten Utrecht",
     "city": "Utrecht",
     "province": "Utrecht",
     "months": "11月",
@@ -326,19 +326,19 @@
       "傳統與民俗",
       "地方特色慶典"
     ],
-    "note": "依慣例推算為11月11日前的星期六，尚未官方確認",
     "url": "https://sintmaartenutrecht.nl/",
-    "noteEn": "Estimated as the Saturday before November 11, based on previous patterns. Not officially confirmed.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "note": "依慣例推算為11月11日前的星期六，尚未官方確認",
+    "noteEn": "Estimated as the Saturday before November 11, based on tradition. Not officially confirmed.",
+    "highlight": "依慣例推算，未經官方確認",
+    "highlightEn": "Estimated based on tradition; not officially confirmed",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F11-04",
+    "nl": "GLOW Eindhoven",
     "zh": "恩荷芬光影節",
     "en": "GLOW Eindhoven",
-    "nl": "GLOW Eindhoven",
     "city": "Eindhoven",
     "province": "Noord-Brabant",
     "months": "11月",
@@ -348,19 +348,19 @@
     "cats": [
       "文化與藝術"
     ],
-    "note": "2026 Eindhoven場次18:30–23:00；2027尚未公布，亦涉及其他城市",
     "url": "https://gloweindhoven.nl/en/practical/",
-    "noteEn": "The 2026 Eindhoven event ran from 6:30 PM to 11:00 PM. Dates for 2027 are not yet announced; other cities may also participate.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "note": "2026 Eindhoven場次18:30–23:00；2027尚未公布，亦涉及其他城市",
+    "noteEn": "The 2026 Eindhoven event ran from 6:30–11 PM. The 2027 schedule is pending and other cities may participate.",
+    "highlight": "2026 Eindhoven 場次 18:30–23:00",
+    "highlightEn": "2026 Eindhoven sessions 6:30–11 PM",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F12-01",
+    "nl": "Kerstmarkt Haarlem",
     "zh": "哈勒姆聖誕市集",
     "en": "Haarlem Christmas Market",
-    "nl": "Kerstmarkt Haarlem",
     "city": "Haarlem",
     "province": "Noord-Holland",
     "months": "12月",
@@ -370,19 +370,19 @@
     "cats": [
       "傳統與民俗"
     ],
-    "note": "2026年資料，2027尚未公布",
     "url": "https://www.visithaarlem.com/kerstmarkt/",
+    "note": "2026年資料，2027尚未公布",
     "noteEn": "These are 2026 dates. The 2027 schedule has not yet been announced.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "highlight": "2026-12-11 至 12-13",
+    "highlightEn": "December 11–13, 2026",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "F12-02",
+    "nl": "Dickens Festijn",
     "zh": "狄更斯節",
     "en": "Deventer Dickens Festival",
-    "nl": "Dickens Festijn",
     "city": "Deventer",
     "province": "Overijssel",
     "months": "12月",
@@ -393,20 +393,20 @@
       "文化與藝術",
       "地方特色慶典"
     ],
-    "note": "2026年資料，2027尚未公布",
     "url": "https://dickensfestijn.nl/",
+    "note": "2026年資料，2027尚未公布",
     "noteEn": "These are 2026 dates. The 2027 schedule has not yet been announced.",
-    "highlight": "",
-    "highlightEn": "",
-    "seasonMonths": [],
-    "weeklyRules": []
+    "highlight": "2026-12-12 至 12-13",
+    "highlightEn": "December 12–13, 2026",
+    "weeklyRules": [],
+    "seasonMonths": []
   },
   {
     "id": "S03-01",
+    "nl": "Bloesempark bloesemseizoen",
     "zh": "櫻花季",
     "en": "Cherry Blossom Season",
-    "nl": "Bloesempark bloesemseizoen",
-    "city": "Amstelveen",
+    "city": "Bloesempark / Amstelveen",
     "province": "Noord-Holland",
     "months": "3–4月",
     "start": "",
@@ -415,23 +415,23 @@
     "cats": [
       "花卉與季節"
     ],
-    "note": "通常3–4月，實際花期受天氣影響",
     "url": "https://www.amsterdamsebos.nl/nieuws/amsterdamse-bos-vernieuwt-bloesempark/",
+    "note": "通常3–4月，實際花期受天氣影響",
     "noteEn": "Usually blooms in March–April. Exact timing depends on the weather.",
     "highlight": "",
     "highlightEn": "",
+    "weeklyRules": [],
     "seasonMonths": [
       3,
       4
-    ],
-    "weeklyRules": []
+    ]
   },
   {
     "id": "S03-02",
+    "nl": "Tulpenseizoen Lisse",
     "zh": "鬱金香季",
     "en": "Tulip Season",
-    "nl": "Tulpenseizoen Lisse",
-    "city": "Lisse",
+    "city": "Keukenhof / Lisse",
     "province": "Zuid-Holland",
     "months": "3–5月",
     "start": "2027-03-18",
@@ -440,24 +440,24 @@
     "cats": [
       "花卉與季節"
     ],
-    "note": "Keukenhof開園3月18日至5月9日；花田花期依天氣",
     "url": "https://keukenhof.nl/en/",
-    "noteEn": "Keukenhof is open March 18–May 9, 2027. Flower-field bloom timing depends on the weather.",
-    "highlight": "",
-    "highlightEn": "",
+    "note": "Keukenhof開園3月18日至5月9日；花田花期依天氣",
+    "noteEn": "Keukenhof opens March 18–May 9, 2027. Flower-field bloom timing depends on the weather.",
+    "highlight": "Keukenhof 2027-03-18 至 05-09 開園",
+    "highlightEn": "Keukenhof open March 18–May 9, 2027",
+    "weeklyRules": [],
     "seasonMonths": [
       3,
       4,
       5
-    ],
-    "weeklyRules": []
+    ]
   },
   {
     "id": "S08-01",
+    "nl": "Heidebloei Posbank",
     "zh": "石楠花季",
     "en": "Heather Blooming Season",
-    "nl": "Heidebloei Posbank",
-    "city": "Posbank / Veluwezoom",
+    "city": "Posbank / Veluwezoom / Arnhem周邊",
     "province": "Gelderland",
     "months": "8–9月",
     "start": "",
@@ -466,15 +466,15 @@
     "cats": [
       "花卉與季節"
     ],
-    "note": "通常8–9月，實際花期受天氣影響",
     "url": "",
+    "note": "通常8–9月，實際花期受天氣影響",
     "noteEn": "Usually blooms in August–September. Exact timing depends on the weather.",
     "highlight": "",
     "highlightEn": "",
+    "weeklyRules": [],
     "seasonMonths": [
       8,
       9
-    ],
-    "weeklyRules": []
+    ]
   }
 ]
