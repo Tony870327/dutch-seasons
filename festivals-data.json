@@ -16,7 +16,11 @@
     ],
     "note": "依復活節推算，嘉年華核心活動通常為週日至週二",
     "url": "https://www.visitmaastricht.com/en/agenda/4126461966/carnival-1#item-details__description",
-    "noteEn": "Carnival dates follow the Easter calendar. Main celebrations generally run from Sunday through Tuesday."
+    "noteEn": "Carnival dates follow the Easter calendar. Main celebrations generally run from Sunday through Tuesday.",
+    "highlight": "週日 Boonte Störrem 遊行",
+    "highlightEn": "Boonte Störrem Sunday parade",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F02-03",
@@ -35,7 +39,11 @@
     ],
     "note": "2月6日13:11舉行 Lampegatse Optocht 遊行",
     "url": "https://lampegat.com/info/lampegatse-optocht/",
-    "noteEn": "The Lampegatse Optocht parade takes place on February 6 at 1:11 PM."
+    "noteEn": "The Lampegatse Optocht parade takes place on February 6 at 1:11 PM.",
+    "highlight": "2027-02-06 13:11 Lampegatse Optocht 遊行",
+    "highlightEn": "Lampegatse Optocht parade, February 6, 2027 at 1:11 PM",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F02-04",
@@ -54,7 +62,11 @@
     ],
     "note": "2月7日12:11舉行 Den Opstoet 遊行",
     "url": "https://www.kruikenstad.nl/agenda/den-opstoet",
-    "noteEn": "The Den Opstoet parade takes place on February 7 at 12:11 PM."
+    "noteEn": "The Den Opstoet parade takes place on February 7 at 12:11 PM.",
+    "highlight": "2027-02-07 12:11 Den Opstoet 遊行",
+    "highlightEn": "Den Opstoet parade, February 7, 2027 at 12:11 PM",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F03-01",
@@ -73,7 +85,23 @@
     ],
     "note": "每週五10:00–13:00，7–8月另有週二晚間場",
     "url": "https://www.kaasmarkt.nl/bezoek-de-kaasmarkt/wanneer-vinden-de-kaasmarkten-plaats",
-    "noteEn": "Fridays, 10:00 AM–1:00 PM. Additional Tuesday evening markets are held in July and August."
+    "noteEn": "Fridays, 10:00 AM–1:00 PM. Additional Tuesday evening markets are held in July and August.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": [
+      {
+        "weekday": "FRI",
+        "months": null
+      },
+      {
+        "weekday": "TUE",
+        "months": [
+          7,
+          8
+        ]
+      }
+    ]
   },
   {
     "id": "F04-01",
@@ -92,7 +120,16 @@
     ],
     "note": "每週四10:00–12:30，節假日可能例外",
     "url": "https://goudsekaasmarkt.com/en/agenda",
-    "noteEn": "Thursdays, 10:00 AM–12:30 PM, with possible public-holiday exceptions."
+    "noteEn": "Thursdays, 10:00 AM–12:30 PM, with possible public-holiday exceptions.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": [
+      {
+        "weekday": "THU",
+        "months": null
+      }
+    ]
   },
   {
     "id": "F04-02",
@@ -110,7 +147,11 @@
     ],
     "note": "每年4月27日，遇星期日提前至4月26日；2027王室主場Lelystad",
     "url": "https://www.koninklijkhuis.nl/onderwerpen/activiteiten-en-werkzaamheden/koningsdag",
-    "noteEn": "Held on April 27 each year, or April 26 if the 27th falls on a Sunday. Lelystad hosts the royal celebrations in 2027."
+    "noteEn": "Held on April 27 each year, or April 26 if the 27th falls on a Sunday. Lelystad hosts the royal celebrations in 2027.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F07-01",
@@ -129,7 +170,11 @@
     ],
     "note": "2027年8月7日為 Canal Parade 運河遊行",
     "url": "https://pride.amsterdam/en/",
-    "noteEn": "The Canal Parade takes place on August 7, 2027."
+    "noteEn": "The Canal Parade takes place on August 7, 2027.",
+    "highlight": "2027-08-07 Canal Parade 運河遊行",
+    "highlightEn": "Canal Parade, August 7, 2027",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F09-01",
@@ -148,7 +193,11 @@
     ],
     "note": "每年9月第一個星期六",
     "url": "https://airbornewandeltocht.nl/",
-    "noteEn": "Held on the first Saturday in September each year."
+    "noteEn": "Held on the first Saturday in September each year.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F09-02",
@@ -166,7 +215,11 @@
     ],
     "note": "每年9月第二個週末",
     "url": "https://www.openmonumentendag.nl/over-ons/",
-    "noteEn": "Held on the second weekend of September each year."
+    "noteEn": "Held on the second weekend of September each year.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F10-01",
@@ -185,7 +238,11 @@
     ],
     "note": "每年10月3日；2027詳細節目待公布",
     "url": "https://3october.nl/",
-    "noteEn": "Held annually on October 3. The detailed 2027 program has not yet been announced."
+    "noteEn": "Held annually on October 3. The detailed 2027 program has not yet been announced.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F10-02",
@@ -203,7 +260,11 @@
     ],
     "note": "2027年10月20日至24日",
     "url": "https://www.amsterdam-dance-event.nl/en/news/amsterdam-dance-event-concludes-monumental-30-year-anniversary-and-sets-dates-for-ade-2027/2967954/",
-    "noteEn": "Scheduled for October 20–24, 2027."
+    "noteEn": "Scheduled for October 20–24, 2027.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F11-01",
@@ -222,7 +283,11 @@
     ],
     "note": "此為2026聖誕季資料，洞穴市集至12月30日；2027年底日期待公布",
     "url": "https://www.christmastownvalkenburg.com/events/detail/kerststad-valkenburg/60635/",
-    "noteEn": "Dates refer to the 2026 Christmas season. Cave Christmas markets run through December 30. Late-2027 dates have not yet been announced."
+    "noteEn": "Dates refer to the 2026 Christmas season. Cave Christmas markets run through December 30. Late-2027 dates have not yet been announced.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F11-02",
@@ -240,7 +305,11 @@
     ],
     "note": "2026全國迎接11月14日，Amsterdam和Utrecht為11月15日；各地日期不同",
     "url": "https://www.sintinamsterdam.nl/over-de-intocht/",
-    "noteEn": "The national 2026 arrival is November 14; Amsterdam and Utrecht host local arrivals on November 15. Dates vary by city."
+    "noteEn": "The national 2026 arrival is November 14; Amsterdam and Utrecht host local arrivals on November 15. Dates vary by city.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F11-03",
@@ -259,7 +328,11 @@
     ],
     "note": "依慣例推算為11月11日前的星期六，尚未官方確認",
     "url": "https://sintmaartenutrecht.nl/",
-    "noteEn": "Estimated as the Saturday before November 11, based on previous patterns. Not officially confirmed."
+    "noteEn": "Estimated as the Saturday before November 11, based on previous patterns. Not officially confirmed.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F11-04",
@@ -277,7 +350,11 @@
     ],
     "note": "2026 Eindhoven場次18:30–23:00；2027尚未公布，亦涉及其他城市",
     "url": "https://gloweindhoven.nl/en/practical/",
-    "noteEn": "The 2026 Eindhoven event ran from 6:30 PM to 11:00 PM. Dates for 2027 are not yet announced; other cities may also participate."
+    "noteEn": "The 2026 Eindhoven event ran from 6:30 PM to 11:00 PM. Dates for 2027 are not yet announced; other cities may also participate.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F12-01",
@@ -295,7 +372,11 @@
     ],
     "note": "2026年資料，2027尚未公布",
     "url": "https://www.visithaarlem.com/kerstmarkt/",
-    "noteEn": "These are 2026 dates. The 2027 schedule has not yet been announced."
+    "noteEn": "These are 2026 dates. The 2027 schedule has not yet been announced.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "F12-02",
@@ -314,7 +395,11 @@
     ],
     "note": "2026年資料，2027尚未公布",
     "url": "https://dickensfestijn.nl/",
-    "noteEn": "These are 2026 dates. The 2027 schedule has not yet been announced."
+    "noteEn": "These are 2026 dates. The 2027 schedule has not yet been announced.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [],
+    "weeklyRules": []
   },
   {
     "id": "S03-01",
@@ -332,7 +417,14 @@
     ],
     "note": "通常3–4月，實際花期受天氣影響",
     "url": "https://www.amsterdamsebos.nl/nieuws/amsterdamse-bos-vernieuwt-bloesempark/",
-    "noteEn": "Usually blooms in March–April. Exact timing depends on the weather."
+    "noteEn": "Usually blooms in March–April. Exact timing depends on the weather.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [
+      3,
+      4
+    ],
+    "weeklyRules": []
   },
   {
     "id": "S03-02",
@@ -350,7 +442,15 @@
     ],
     "note": "Keukenhof開園3月18日至5月9日；花田花期依天氣",
     "url": "https://keukenhof.nl/en/",
-    "noteEn": "Keukenhof is open March 18–May 9, 2027. Flower-field bloom timing depends on the weather."
+    "noteEn": "Keukenhof is open March 18–May 9, 2027. Flower-field bloom timing depends on the weather.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [
+      3,
+      4,
+      5
+    ],
+    "weeklyRules": []
   },
   {
     "id": "S08-01",
@@ -368,6 +468,13 @@
     ],
     "note": "通常8–9月，實際花期受天氣影響",
     "url": "",
-    "noteEn": "Usually blooms in August–September. Exact timing depends on the weather."
+    "noteEn": "Usually blooms in August–September. Exact timing depends on the weather.",
+    "highlight": "",
+    "highlightEn": "",
+    "seasonMonths": [
+      8,
+      9
+    ],
+    "weeklyRules": []
   }
 ]
