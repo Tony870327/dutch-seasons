@@ -147,7 +147,7 @@
     ],
     "url": "https://www.koninklijkhuis.nl/onderwerpen/activiteiten-en-werkzaamheden/koningsdag",
     "note": "每年4月27日，遇星期日提前至4月26日；2027王室主場Lelystad",
-    "noteEn": "Held on April 27, or April 26 when the 27th is a Sunday. Lelystad hosts the royal celebration in 2027. Sync test 2026",
+    "noteEn": "Held on April 27, or April 26 when the 27th is a Sunday. Lelystad hosts the royal celebration in 2027.",
     "highlight": "2027 王室主要慶祝城市：Lelystad",
     "highlightEn": "2027 royal celebration host city: Lelystad",
     "weeklyRules": [],
@@ -353,6 +353,28 @@
     "noteEn": "The 2026 Eindhoven event ran from 6:30–11 PM. The 2027 schedule is pending and other cities may participate.",
     "highlight": "2026 Eindhoven 場次 18:30–23:00",
     "highlightEn": "2026 Eindhoven sessions 6:30–11 PM",
+    "weeklyRules": [],
+    "seasonMonths": []
+  },
+  {
+    "id": "F11-05",
+    "nl": "Amsterdam Light Festival",
+    "zh": "阿姆斯特丹燈光節",
+    "en": "Amsterdam Light Festival",
+    "city": "Amsterdam",
+    "province": "Noord-Holland",
+    "months": "11月–翌年1月",
+    "start": "2026-11-26",
+    "end": "2027-01-17",
+    "kind": "confirmed",
+    "cats": [
+      "文化與藝術"
+    ],
+    "url": "https://amsterdamlightfestival.com/en/dates-hours",
+    "note": "第15屆以阿姆斯特丹運河為舞台，展出光藝術作品，可步行、騎車或搭乘遊船欣賞。活動期間為2026年11月26日至2027年1月17日；每日16:30–23:00亮燈，跨年夜至21:00。11月26日、12月12日及19日另有Light Nights特別節目。",
+    "noteEn": "Edition 15 transforms Amsterdam's canals with light artworks, enjoyed on foot, by bike or on a canal cruise. The festival runs from November 26, 2026 to January 17, 2027. Lights are on daily from 4:30 to 11 PM, except New Year's Eve when they turn off at 9 PM. Light Nights offer special programming on November 26 and December 12 and 19.",
+    "highlight": "每日16:30–23:00（12/31至21:00）；Light Nights：11/26、12/12、12/19",
+    "highlightEn": "Lights daily 4:30–11 PM (until 9 PM on Dec 31); Light Nights: Nov 26, Dec 12 and 19",
     "weeklyRules": [],
     "seasonMonths": []
   },
